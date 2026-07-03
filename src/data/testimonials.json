@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "role": "Farmer, Punjab",
+    "text": "Agrofarm has transformed my farming practices. Their organic farming guidance helped me increase my yield by 40% while reducing costs.",
+    "rating": 5,
+    "avatar": "/images/avatar1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sunita Devi",
+    "role": "Farmer, Haryana",
+    "text": "The quality seeds from Agrofarm are exceptional. My crops have never been healthier. Highly recommend their services!",
+    "rating": 5,
+    "avatar": "/images/avatar2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mohammed Ali",
+    "role": "Farmer, Maharashtra",
+    "text": "Their irrigation solutions saved me so much water and money. The team is knowledgeable and always ready to help.",
+    "rating": 5,
+    "avatar": "/images/avatar3.jpg"
+  }
+]

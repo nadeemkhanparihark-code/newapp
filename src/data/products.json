@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Wheat Seeds",
+    "description": "Premium quality wheat seeds for high yield",
+    "price": "₹450/kg",
+    "image": "/images/wheat.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rice Seeds",
+    "description": "Certified basmati rice seeds",
+    "price": "₹380/kg",
+    "image": "/images/rice.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Seeds Pack",
+    "description": "Mixed vegetable seeds collection",
+    "price": "₹250/pack",
+    "image": "/images/vegetables.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Organic Fertilizer",
+    "description": "Natural compost fertilizer",
+    "price": "₹180/kg",
+    "image": "/images/fertilizer.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Corn Seeds",
+    "description": "High-yield corn variety seeds",
+    "price": "₹320/kg",
+    "image": "/images/corn.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tomato Seeds",
+    "description": "Hybrid tomato seeds for better growth",
+    "price": "₹150/pack",
+    "image": "/images/tomato.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pesticide Spray",
+    "description": "Organic pest control solution",
+    "price": "₹280/bottle",
+    "image": "/images/pesticide.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Garden Tools Kit",
+    "description": "Complete farming tools set",
+    "price": "₹1200/set",
+    "image": "/images/tools.jpg"
+  }
+]

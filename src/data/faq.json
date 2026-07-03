@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What services does Agrofarm provide?",
+    "answer": "Agrofarm provides comprehensive agricultural services including organic farming guidance, crop management, irrigation solutions, quality seeds, seasonal farming tips, and market support for farmers."
+  },
+  {
+    "id": 2,
+    "question": "How can I get started with organic farming?",
+    "answer": "You can start by contacting our team for a consultation. We will assess your land, provide soil testing, and create a customized organic farming plan tailored to your needs and local conditions."
+  },
+  {
+    "id": 3,
+    "question": "Do you provide seeds for all types of crops?",
+    "answer": "Yes, we offer a wide variety of certified seeds including grains, vegetables, fruits, and pulses. All our seeds are tested for quality and have high germination rates."
+  },
+  {
+    "id": 4,
+    "question": "What irrigation solutions do you offer?",
+    "answer": "We provide modern irrigation solutions including drip irrigation, sprinkler systems, and smart water management technologies that help conserve water while ensuring optimal crop growth."
+  },
+  {
+    "id": 5,
+    "question": "How can I contact Agrofarm for support?",
+    "answer": "You can reach us through our contact form, call us at our helpline number, or visit our office. Our team is available to assist you with all your agricultural needs."
+  }
+]

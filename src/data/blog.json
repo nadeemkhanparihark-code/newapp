@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "10 Tips for Organic Farming Success",
+    "excerpt": "Learn the essential techniques for successful organic farming that can help you grow healthier crops naturally.",
+    "date": "January 15, 2025",
+    "image": "/images/blog1.jpg",
+    "slug": "organic-farming-tips"
+  },
+  {
+    "id": 2,
+    "title": "Understanding Soil Health",
+    "excerpt": "Discover how to maintain and improve your soil health for better crop production and sustainable farming.",
+    "date": "January 10, 2025",
+    "image": "/images/blog2.jpg",
+    "slug": "soil-health"
+  },
+  {
+    "id": 3,
+    "title": "Water Conservation in Agriculture",
+    "excerpt": "Effective water management techniques that every farmer should know to conserve water and reduce costs.",
+    "date": "January 5, 2025",
+    "image": "/images/blog3.jpg",
+    "slug": "water-conservation"
+  }
+]

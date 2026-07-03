@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Wheat Fields",
+    "image": "/images/gallery1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rice Plantation",
+    "image": "/images/gallery2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Organic Farm",
+    "image": "/images/gallery3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Vegetable Garden",
+    "image": "/images/gallery4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Harvest Season",
+    "image": "/images/gallery5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Modern Irrigation",
+    "image": "/images/gallery6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Farm Equipment",
+    "image": "/images/gallery7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Green Fields",
+    "image": "/images/gallery8.jpg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Farming",
+    "description": "We provide guidance on organic farming techniques that help you grow healthy crops without harmful chemicals.",
+    "icon": "🌱"
+  },
+  {
+    "id": 2,
+    "title": "Crop Management",
+    "description": "Expert advice on crop rotation, pest control, and soil management to maximize your agricultural yield.",
+    "icon": "🌾"
+  },
+  {
+    "id": 3,
+    "title": "Irrigation Solutions",
+    "description": "Modern irrigation systems and water management techniques to ensure optimal water usage for your crops.",
+    "icon": "💧"
+  },
+  {
+    "id": 4,
+    "title": "Quality Seeds",
+    "description": "High-quality, certified seeds that ensure better germination rates and healthier crop production.",
+    "icon": "🌻"
+  },
+  {
+    "id": 5,
+    "title": "Seasonal Tips",
+    "description": "Timely farming tips and seasonal guidance to help you plan your agricultural activities effectively.",
+    "icon": "📅"
+  },
+  {
+    "id": 6,
+    "title": "Market Support",
+    "description": "Assistance in connecting farmers with markets and buyers to ensure fair prices for their produce.",
+    "icon": "🏪"
+  }
+]

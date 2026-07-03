@@ -1,20 +1,29 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import logo from '../../assets/logo.svg'
 
 export default function Header() {
+  const navigate = useNavigate()
+
+  const handleHomeClick = (e) => {
+    e.preventDefault()
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+    navigate('/')
+  }
+
   return (
-    <div>
-        <nav className="bg-neutral-primary  w-full z-20 top-0 start-0 border-b border-default">
+    <header className="sticky top-0 z-50">
+        <nav className="bg-neutral-primary w-full border-b border-default">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <Link
       to="/"
+      onClick={handleHomeClick}
       className="flex items-center space-x-3 rtl:space-x-reverse"
     >
       <img
         src={logo}
         className="h-8 w-8"
-        alt="Bagtesh Fashion logo"
+        alt="Fashion Hub logo"
       />
       <span className="self-center text-xl text-heading font-semibold whitespace-nowrap">
         Fashion Hub
@@ -48,13 +57,13 @@ export default function Header() {
     <div className="hidden w-full md:block md:w-auto" id="navbar-default">
       <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border border-default rounded-base bg-neutral-secondary-soft md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-neutral-primary">
         <li>
-          <a
-            href="#"
-            className="block py-2 px-3 text-white bg-brand rounded md:bg-transparent md:text-fg-brand md:p-0"
-            aria-current="page"
+          <Link
+            to="/"
+            onClick={handleHomeClick}
+            className="block py-2 px-3 text-heading rounded hover:bg-neutral-tertiary md:hover:bg-transparent md:border-0 md:hover:text-fg-brand md:p-0"
           >
             Home
-          </a>
+          </Link>
         </li>
         <li>
           <Link
@@ -92,7 +101,6 @@ export default function Header() {
     </div>
   </div>
 </nav>
-
-    </div>
+    </header>
   )
 }

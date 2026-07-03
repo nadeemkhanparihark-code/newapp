@@ -49,7 +49,7 @@ export default function About() {
               Celebrating tradition, tailored for today
             </h2>
             <p className="mt-4 text-body">
-              Bagtesh Fashion began with a simple belief: every celebration
+              Fashion Hub began with a simple belief: every celebration
               deserves outfits that feel as special as the moment itself. What
               started as a small family tailoring studio has grown into a
               destination for premium Indian ethnic and celebration wear.
@@ -77,7 +77,7 @@ export default function About() {
           <div>
             <img
               src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
-              alt="Bagtesh Fashion celebration wear collection"
+              alt="Fashion Hub celebration wear collection"
               className="w-full max-h-[420px] object-cover rounded-base border border-default shadow-xs"
             />
           </div>

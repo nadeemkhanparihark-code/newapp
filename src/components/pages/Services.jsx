@@ -49,7 +49,7 @@ const Services = () => {
           </span>
           <h2 className="mt-4 text-4xl font-bold text-heading">Our Services</h2>
           <p className="mt-3 text-body">
-            From custom tailoring to doorstep delivery, Bagtesh Fashion brings
+            From custom tailoring to doorstep delivery, Fashion Hub brings
             you a complete celebration-wear experience built around
             craftsmanship, comfort and care.
           </p>

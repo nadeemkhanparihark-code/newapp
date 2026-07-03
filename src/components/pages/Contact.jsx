@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 const contactInfo = [
   {
     label: "Email us",
-    value: "support@bagteshfashion.com",
+    value: "support@fashionhub.com",
     icon: (
       <path
         stroke="currentColor"

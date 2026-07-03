@@ -55,7 +55,7 @@ const Pricing = () => {
           <span className="inline-flex items-center bg-brand-softer border border-brand-subtle text-fg-brand-strong text-xs font-medium px-2 py-0.5 rounded-sm">
             Membership plans
           </span>
-          <h2 className="mt-4 text-4xl font-bold text-heading">
+          <h2 className="mt-4 text-2xl sm:text-3xl lg:text-4xl font-bold text-heading">
             Pricing made simple
           </h2>
           <p className="mt-3 text-body">

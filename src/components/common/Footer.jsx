@@ -2,10 +2,9 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <div>
-        <footer className="bg-neutral-primary">
-  <div className="mx-auto w-full max-w-screen-xl">
-    <div className="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
+    <footer className="bg-neutral-primary border-t border-default">
+      <div className="mx-auto w-full max-w-screen-xl px-4">
+        <div className="grid grid-cols-2 gap-6 py-8 sm:grid-cols-2 md:grid-cols-4 lg:py-10">
       <div>
         <h2 className="mb-6 text-sm font-semibold text-heading uppercase">
           Company
@@ -110,12 +109,11 @@ export default function Footer() {
         </ul>
       </div>
     </div>
-    <div className="px-4 py-6 bg-neutral-secondary-soft md:flex md:items-center md:justify-between">
-      <span className="text-sm text-body sm:text-center">
-        © 2026 <a href="https://flowbite.com/">My Website™</a>. All Rights
-        Reserved.
+    <div className="py-6 bg-neutral-secondary-soft md:flex md:items-center md:justify-between rounded-t-base">
+      <span className="text-sm text-body text-center block md:text-left">
+        © 2026 <a href="#" className="hover:underline">Fashion Hub™</a>. All Rights Reserved.
       </span>
-      <div className="flex mt-4 sm:justify-center md:mt-0 space-x-2 rtl:space-x-reverse">
+      <div className="flex mt-4 justify-center md:mt-0 space-x-4">
         <a href="#" className="text-body hover:text-heading">
           <svg
             className="w-5 h-5"
@@ -134,7 +132,7 @@ export default function Footer() {
           </svg>
           <span className="sr-only">Facebook page</span>
         </a>
-        <a href="#" className="text-body hover:text-heading ms-5">
+        <a href="#" className="text-body hover:text-heading">
           <svg
             className="w-5 h-5"
             aria-hidden="true"
@@ -148,7 +146,7 @@ export default function Footer() {
           </svg>
           <span className="sr-only">Discord community</span>
         </a>
-        <a href="#" className="text-body hover:text-heading ms-5">
+        <a href="#" className="text-body hover:text-heading">
           <svg
             className="w-5 h-5"
             aria-hidden="true"
@@ -162,7 +160,7 @@ export default function Footer() {
           </svg>
           <span className="sr-only">Twitter page</span>
         </a>
-        <a href="#" className="text-body hover:text-heading ms-5">
+        <a href="#" className="text-body hover:text-heading">
           <svg
             className="w-5 h-5"
             aria-hidden="true"
@@ -180,7 +178,7 @@ export default function Footer() {
           </svg>
           <span className="sr-only">GitHub account</span>
         </a>
-        <a href="#" className="text-body hover:text-heading ms-5">
+        <a href="#" className="text-body hover:text-heading">
           <svg
             className="w-5 h-5"
             aria-hidden="true"
@@ -202,7 +200,5 @@ export default function Footer() {
     </div>
   </div>
 </footer>
-
-    </div>
   )
 }

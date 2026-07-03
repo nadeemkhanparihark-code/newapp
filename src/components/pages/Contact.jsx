@@ -81,7 +81,7 @@ const Contact = () => {
           <span className="inline-flex items-center bg-brand-softer border border-brand-subtle text-fg-brand-strong text-xs font-medium px-2 py-0.5 rounded-sm">
             Get in touch
           </span>
-          <h2 className="mt-4 text-4xl font-bold text-heading">Contact us</h2>
+          <h2 className="mt-4 text-2xl sm:text-3xl lg:text-4xl font-bold text-heading">Contact us</h2>
           <p className="mt-3 text-body">
             Have a question about an order, sizing or styling? Send us a message
             and our team will get back to you within 24 hours.
